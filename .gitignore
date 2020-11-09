@@ -1,0 +1,13 @@
+env/
+
+*.pyc
+db.sqlite3
+migrations
+.DS_Store
+key_pair_hw7
+
+
+SearchImage/.idea/misc.xml
+SearchImage/.idea/workspace.xml
+SearchImage/.idea/vcs.xml
+SearchImage/.idea
